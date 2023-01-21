@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+.logo{
+    width:min-content;
+    height: min-content;
+}
+
+
+h4{
+    text-align: left;
+}
+
+h1{
+    background-color: greenyellow;
+}
